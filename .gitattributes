@@ -1,0 +1,2 @@
+projects/*.mp4 filter=lfs diff=lfs merge=lfs -text
+Hero/*.mp4 filter=lfs diff=lfs merge=lfs -text
